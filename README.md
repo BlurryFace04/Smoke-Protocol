@@ -15,3 +15,6 @@ the protocol initiates an auction to protect the platform's financial stability,
 5. **Risk Mitigation:** An automatic auction mechanism for loans falling below collateral value minimizes risks, ensuring platform integrity and providing a recovery path for borrowers.
 
 By addressing these pain points, Smoke Protocol not only enhances liquidity and capital efficiency for users but also nurtures a comprehensive, community-focused ecosystem.
+
+![image](https://github.com/BlurryFace04/Smoke-Protocol/assets/64888928/15a69007-3c20-430f-aa94-99142846a69c)
+![image](https://github.com/BlurryFace04/Smoke-Protocol/assets/64888928/1c21b4d1-557e-4594-8b81-ebbbffd7d87f)
